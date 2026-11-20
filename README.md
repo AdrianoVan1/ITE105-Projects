@@ -1,2 +1,15 @@
-# ITE105-Projects
-Main area for publishing
+# Main School Works
+
+### Known Coding Languages
+- Java
+
+
+
+# PROJECTS ⭐
+### MIDTERMS 🍨
+- [tempt]()
+- [tempt]()
+---
+### FINALS 💻
+- [tempt]()
+- [tempt]()
